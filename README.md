@@ -1,0 +1,2 @@
+# electron-fazt
+mini editor
